@@ -1,0 +1,4 @@
+com\sintup\parser\dataLoding\DataLoader.class
+com\sintup\parser\utils\DatabaseUtil.class
+com\sintup\parser\base\Article.class
+com\sintup\parser\utils\ArticleParserUtil.class
